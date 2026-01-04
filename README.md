@@ -3,7 +3,6 @@
 Welcome to my professional portfolio! This project serves as my digital headquarters, showcasing the intersection of my **Electrical Engineering** foundation and my journey into **Backend Development** and **Cybersecurity**.
 
 📍 **Live Demo:** [View my Portfolio here!](https://rolandslt.github.io/Landing-Page/) 
-*(Note: Replace this with your actual GitHub Pages link)*
 
 ---
 
